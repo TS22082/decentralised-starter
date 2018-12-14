@@ -1,7 +1,7 @@
 # decentralised-starter
-A persistent storage decentralised app to be ran on the beaker browser or through CLI <br>
+A persistent storage p2p decentralised app to be ran on the beaker browser or through CLI <br>
 <br>
-currently allows creation of new dat archive on users computer from user interface. Dat info is saved to host to display title, description and to provide link to newly created datArchive. User has ability to "seed" host computer to decentralize the data and make sure host dat address stays active. Host to this starter is currently decentralised and available even if computer is off.
+Currently allows creation of new dat archive on users computer from user interface. Dat info is saved to host to display title, description and to provide link to newly created datArchive. User has ability to "seed" host computer to decentralize the data and make sure host dat address stays active. Host to this starter is currently decentralised and available even if computer is off.
 
 # Required
 Beaker: https://beakerbrowser.com/ <br>
