@@ -1,0 +1,66 @@
+h1, p {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0px;
+  display: grid;
+  grid-template-rows: 10vh 80vh 10vh;
+  grid-gap: 0px;
+}
+
+.main {
+  display: grid;
+  background-image: url("https://drive.google.com/uc?id=1QA7G9-GNy7BKmtpyugJLDBXS0OmWLdA_");
+  background-size: contain;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: grid;
+  background-color: rgb(2,96,107);
+}
+
+.header, .footer {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color:rgb(23,43,47);
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 90% 1fr;
+}
+
+.addLabBtn {
+  float: right;
+  border-radius: 10px;
+  border: solid;
+  border-color: rgb(2,96,107);
+  background-color: rgb(23,43,47);
+  justify-self: center;
+  align-self: center;
+  font-size: .80em;
+  letter-spacing: 1.1px;
+  transition: 
+    padding .5s ease-in-out, 
+    border-color .5s ease-in-out,
+    background-color .5s ease-in-out,
+    font-size .5s ease-in-out;
+}
+
+.addLabBtn:hover {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: white;
+  background-color: rgb(2,96,107);
+  font-size: .90em;
+}
+
+/* 
+rgb(23,43,47)
+rgb(2,96,107) 
+*/
