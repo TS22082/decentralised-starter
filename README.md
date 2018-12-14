@@ -4,8 +4,7 @@ A persistent storage decentralised app to be ran on the beaker browser or throug
 Beaker: https://beakerbrowser.com/ <br>
 or <br>
 node:https://nodejs.org/en/download/ <br>
-and <br>
-dat-node: https://www.npmjs.com/package/dat
+dat: https://www.npmjs.com/package/dat
 
 # Check it out
 - dat://3f5b7195b6c488c3b6c157bbd163b9a86a1be5a129a0936b989fb5cff95a4785/
